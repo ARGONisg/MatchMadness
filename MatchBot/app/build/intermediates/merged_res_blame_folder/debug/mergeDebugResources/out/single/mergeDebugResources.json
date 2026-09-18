@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/parth/.gradle/daemon/9.6.0/com.example.matchbot.app-debug-3:/xml_accessibility_service_config.xml.flat",
+        "source": "/Users/parth/.gradle/daemon/9.6.0/com.example.matchbot.app-main-5:/xml/accessibility_service_config.xml"
+    },
+    {
+        "merged": "com.example.matchbot.app-debug-3:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.example.matchbot.app-main-5:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.matchbot.app-debug-3:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.example.matchbot.app-main-5:/mipmap-hdpi/ic_launcher_round.png"
+    }
+]

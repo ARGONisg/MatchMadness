@@ -1,0 +1,4 @@
+com.example.matchbot:string/accessibility_service_description = 0x7f020000
+com.example.matchbot:xml/accessibility_service_config = 0x7f030000
+com.example.matchbot:mipmap/ic_launcher_round = 0x7f010001
+com.example.matchbot:mipmap/ic_launcher = 0x7f010000

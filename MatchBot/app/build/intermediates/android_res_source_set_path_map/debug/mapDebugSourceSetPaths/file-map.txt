@@ -1,0 +1,8 @@
+com.example.matchbot.app-pngs-0 /Users/parth/Antigravity/Automation/MatchMadness/MatchBot/app/build/generated/res/pngs/debug
+com.example.matchbot.app-updated_navigation_xml-1 /Users/parth/Antigravity/Automation/MatchMadness/MatchBot/app/build/generated/updated_navigation_xml/debug
+com.example.matchbot.app-packageDebugResources-2 /Users/parth/Antigravity/Automation/MatchMadness/MatchBot/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.example.matchbot.app-packageDebugResources-3 /Users/parth/Antigravity/Automation/MatchMadness/MatchBot/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.example.matchbot.app-debug-4 /Users/parth/Antigravity/Automation/MatchMadness/MatchBot/app/build/intermediates/merged_res/debug/mergeDebugResources
+com.example.matchbot.app-debug-5 /Users/parth/Antigravity/Automation/MatchMadness/MatchBot/app/src/debug/res
+com.example.matchbot.app-main-6 /Users/parth/Antigravity/Automation/MatchMadness/MatchBot/app/src/main/res
+gradleHome-0 /Users/parth/.gradle

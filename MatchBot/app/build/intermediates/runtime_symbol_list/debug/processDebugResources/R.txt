@@ -1,0 +1,4 @@
+int mipmap ic_launcher 0x7f010000
+int mipmap ic_launcher_round 0x7f010001
+int string accessibility_service_description 0x7f020000
+int xml accessibility_service_config 0x7f030000

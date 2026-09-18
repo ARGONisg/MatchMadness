@@ -1,0 +1,65 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/parth/Antigravity/Automation/MatchMadness/MatchBot/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/parth/Antigravity/Automation/MatchMadness/MatchBot/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/parth/Antigravity/Automation/MatchMadness/MatchBot/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/parth/Antigravity/Automation/MatchMadness/MatchBot/app/src/main/AndroidManifest.xml:2:1-29:12
+	package
+		INJECTED from /Users/parth/Antigravity/Automation/MatchMadness/MatchBot/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/parth/Antigravity/Automation/MatchMadness/MatchBot/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/parth/Antigravity/Automation/MatchMadness/MatchBot/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/parth/Antigravity/Automation/MatchMadness/MatchBot/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/parth/Antigravity/Automation/MatchMadness/MatchBot/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /Users/parth/Antigravity/Automation/MatchMadness/MatchBot/app/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /Users/parth/Antigravity/Automation/MatchMadness/MatchBot/app/src/main/AndroidManifest.xml:6:5-27:19
+INJECTED from /Users/parth/Antigravity/Automation/MatchMadness/MatchBot/app/src/main/AndroidManifest.xml:6:5-27:19
+	android:extractNativeLibs
+		INJECTED from /Users/parth/Antigravity/Automation/MatchMadness/MatchBot/app/src/main/AndroidManifest.xml
+	android:supportsRtl
+		ADDED from /Users/parth/Antigravity/Automation/MatchMadness/MatchBot/app/src/main/AndroidManifest.xml:11:9-35
+	android:label
+		ADDED from /Users/parth/Antigravity/Automation/MatchMadness/MatchBot/app/src/main/AndroidManifest.xml:9:9-33
+	android:roundIcon
+		ADDED from /Users/parth/Antigravity/Automation/MatchMadness/MatchBot/app/src/main/AndroidManifest.xml:10:9-54
+	android:icon
+		ADDED from /Users/parth/Antigravity/Automation/MatchMadness/MatchBot/app/src/main/AndroidManifest.xml:8:9-43
+	android:allowBackup
+		ADDED from /Users/parth/Antigravity/Automation/MatchMadness/MatchBot/app/src/main/AndroidManifest.xml:7:9-35
+	android:theme
+		ADDED from /Users/parth/Antigravity/Automation/MatchMadness/MatchBot/app/src/main/AndroidManifest.xml:12:9-71
+service#com.example.matchbot.MatchMadnessService
+ADDED from /Users/parth/Antigravity/Automation/MatchMadness/MatchBot/app/src/main/AndroidManifest.xml:14:9-26:19
+	android:label
+		ADDED from /Users/parth/Antigravity/Automation/MatchMadness/MatchBot/app/src/main/AndroidManifest.xml:17:13-46
+	android:exported
+		ADDED from /Users/parth/Antigravity/Automation/MatchMadness/MatchBot/app/src/main/AndroidManifest.xml:16:13-36
+	android:permission
+		ADDED from /Users/parth/Antigravity/Automation/MatchMadness/MatchBot/app/src/main/AndroidManifest.xml:18:13-79
+	android:name
+		ADDED from /Users/parth/Antigravity/Automation/MatchMadness/MatchBot/app/src/main/AndroidManifest.xml:15:13-48
+intent-filter#action:name:android.accessibilityservice.AccessibilityService
+ADDED from /Users/parth/Antigravity/Automation/MatchMadness/MatchBot/app/src/main/AndroidManifest.xml:19:13-21:29
+action#android.accessibilityservice.AccessibilityService
+ADDED from /Users/parth/Antigravity/Automation/MatchMadness/MatchBot/app/src/main/AndroidManifest.xml:20:17-92
+	android:name
+		ADDED from /Users/parth/Antigravity/Automation/MatchMadness/MatchBot/app/src/main/AndroidManifest.xml:20:25-89
+meta-data#android.accessibilityservice
+ADDED from /Users/parth/Antigravity/Automation/MatchMadness/MatchBot/app/src/main/AndroidManifest.xml:23:13-25:72
+	android:resource
+		ADDED from /Users/parth/Antigravity/Automation/MatchMadness/MatchBot/app/src/main/AndroidManifest.xml:25:17-69
+	android:name
+		ADDED from /Users/parth/Antigravity/Automation/MatchMadness/MatchBot/app/src/main/AndroidManifest.xml:24:17-60
+uses-sdk
+INJECTED from /Users/parth/Antigravity/Automation/MatchMadness/MatchBot/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/parth/Antigravity/Automation/MatchMadness/MatchBot/app/src/main/AndroidManifest.xml
+INJECTED from /Users/parth/Antigravity/Automation/MatchMadness/MatchBot/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/parth/Antigravity/Automation/MatchMadness/MatchBot/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/parth/Antigravity/Automation/MatchMadness/MatchBot/app/src/main/AndroidManifest.xml

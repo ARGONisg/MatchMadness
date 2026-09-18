@@ -1,0 +1,61 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.matchbot"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+7-->INJECTED
+8        android:minSdkVersion="24"
+8-->INJECTED
+9        android:targetSdkVersion="35" />
+9-->INJECTED
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->/Users/parth/Antigravity/Automation/MatchMadness/MatchBot/app/src/main/AndroidManifest.xml:4:5-67
+11-->/Users/parth/Antigravity/Automation/MatchMadness/MatchBot/app/src/main/AndroidManifest.xml:4:22-64
+12
+13    <application
+13-->/Users/parth/Antigravity/Automation/MatchMadness/MatchBot/app/src/main/AndroidManifest.xml:6:5-27:19
+14        android:allowBackup="true"
+14-->/Users/parth/Antigravity/Automation/MatchMadness/MatchBot/app/src/main/AndroidManifest.xml:7:9-35
+15        android:debuggable="true"
+16        android:extractNativeLibs="false"
+16-->INJECTED
+17        android:icon="@mipmap/ic_launcher"
+17-->/Users/parth/Antigravity/Automation/MatchMadness/MatchBot/app/src/main/AndroidManifest.xml:8:9-43
+18        android:label="MatchBot"
+18-->/Users/parth/Antigravity/Automation/MatchMadness/MatchBot/app/src/main/AndroidManifest.xml:9:9-33
+19        android:roundIcon="@mipmap/ic_launcher_round"
+19-->/Users/parth/Antigravity/Automation/MatchMadness/MatchBot/app/src/main/AndroidManifest.xml:10:9-54
+20        android:supportsRtl="true"
+20-->/Users/parth/Antigravity/Automation/MatchMadness/MatchBot/app/src/main/AndroidManifest.xml:11:9-35
+21        android:theme="@android:style/Theme.DeviceDefault.NoActionBar" >
+21-->/Users/parth/Antigravity/Automation/MatchMadness/MatchBot/app/src/main/AndroidManifest.xml:12:9-71
+22        <service
+22-->/Users/parth/Antigravity/Automation/MatchMadness/MatchBot/app/src/main/AndroidManifest.xml:14:9-26:19
+23            android:name="com.example.matchbot.MatchMadnessService"
+23-->/Users/parth/Antigravity/Automation/MatchMadness/MatchBot/app/src/main/AndroidManifest.xml:15:13-48
+24            android:exported="true"
+24-->/Users/parth/Antigravity/Automation/MatchMadness/MatchBot/app/src/main/AndroidManifest.xml:16:13-36
+25            android:label="Match Madness Bot"
+25-->/Users/parth/Antigravity/Automation/MatchMadness/MatchBot/app/src/main/AndroidManifest.xml:17:13-46
+26            android:permission="android.permission.BIND_ACCESSIBILITY_SERVICE" >
+26-->/Users/parth/Antigravity/Automation/MatchMadness/MatchBot/app/src/main/AndroidManifest.xml:18:13-79
+27            <intent-filter>
+27-->/Users/parth/Antigravity/Automation/MatchMadness/MatchBot/app/src/main/AndroidManifest.xml:19:13-21:29
+28                <action android:name="android.accessibilityservice.AccessibilityService" />
+28-->/Users/parth/Antigravity/Automation/MatchMadness/MatchBot/app/src/main/AndroidManifest.xml:20:17-92
+28-->/Users/parth/Antigravity/Automation/MatchMadness/MatchBot/app/src/main/AndroidManifest.xml:20:25-89
+29            </intent-filter>
+30
+31            <meta-data
+31-->/Users/parth/Antigravity/Automation/MatchMadness/MatchBot/app/src/main/AndroidManifest.xml:23:13-25:72
+32                android:name="android.accessibilityservice"
+32-->/Users/parth/Antigravity/Automation/MatchMadness/MatchBot/app/src/main/AndroidManifest.xml:24:17-60
+33                android:resource="@xml/accessibility_service_config" />
+33-->/Users/parth/Antigravity/Automation/MatchMadness/MatchBot/app/src/main/AndroidManifest.xml:25:17-69
+34        </service>
+35    </application>
+36
+37</manifest>

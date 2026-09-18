@@ -1,0 +1,5 @@
+com.example.matchbot
+mipmap ic_launcher
+mipmap ic_launcher_round
+string accessibility_service_description
+xml accessibility_service_config
